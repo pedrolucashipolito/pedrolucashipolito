@@ -58,4 +58,4 @@ REST API developed with Spring Boot, Spring Data JPA and PostgreSQL.
 
 ## Contact
 
-* LinkedIn: https://www.linkedin.com/in/SEU-LINKEDIN
+* LinkedIn: www.linkedin.com/in/pedrolucashipolito
