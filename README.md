@@ -2,33 +2,33 @@
 
 🎓 Systems Information Student at UEG (State University of Goiás)
 
-💻 Background in IT Infrastructure and Technical Support
+💻 Interested in Software Development and Backend Engineering
 
-🗄️ Currently focusing on Databases, SQL, PostgreSQL and Data Modeling
+🚀 Building projects with Java, Spring Boot and web technologies
 
 ## About Me
 
-I am a Systems Information student passionate about technology and databases. My academic and professional journey has provided experience in IT infrastructure and technical support, while my current focus is on developing expertise in SQL, PostgreSQL, relational databases and data modeling.
+I am a Systems Information student interested in software development, especially backend development. My academic and professional experience in IT infrastructure and technical support has helped me develop practical problem-solving skills and a deeper understanding of technology.
 
-I am continuously improving my skills through academic projects and hands-on practice, aiming to build a career in the database field.
+I am continuously improving my programming skills through academic projects and hands-on practice, with a focus on building software and learning new technologies.
 
 ## Technologies
 
-* SQL
-* PostgreSQL
 * Java
 * Spring Boot
+* JavaScript
+* HTML5 and CSS3
+* JSP and JSF
+* PostgreSQL and SQL
 * Git & GitHub
-* Linux
-* IT Infrastructure
 
 ## Current Learning Focus
 
-* Relational Database Design
-* Data Modeling
-* Advanced SQL
-* PostgreSQL Administration
-* Query Optimization
+* Backend Development
+* REST API Development
+* Object-Oriented Programming
+* Software Architecture
+* Software Quality and Testing
 
 ## Featured Projects
 
@@ -38,15 +38,15 @@ Gym management and workout scheduling web application developed with Java, JSP a
 
 **Key skills demonstrated:**
 
-* Relational database design
+* Java web development
 * JDBC integration
 * CRUD operations
+* Relational database integration
 * Layered architecture
-* PostgreSQL database management
 
 ### Gym Backend API
 
-REST API developed with Spring Boot, Spring Data JPA and PostgreSQL.
+Academic backend project adapted using Spring Boot, Spring Data JPA and PostgreSQL.
 
 **Key skills demonstrated:**
 
@@ -58,4 +58,4 @@ REST API developed with Spring Boot, Spring Data JPA and PostgreSQL.
 
 ## Contact
 
-* LinkedIn: www.linkedin.com/in/pedrolucashipolito
+* LinkedIn: https://www.linkedin.com/in/pedrolucashipolito/
